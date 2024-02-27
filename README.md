@@ -1,3 +1,3 @@
 Il s'agit d'un projet réalisé dans le cadre du cours "Passez au Full Stack avec Node.js, Express et MongoDB" de OpenClassrooms.
 Ce repository ne comprend que la partie BackEnd de ce projet, la partie FrontEnd étant fournie par OpenClassrooms directement;
-Si vous souhaitez voir le projet dans son ensemble, je vous invite à cloner (ce repository)[https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr] pour avoir la partie FrontEnd.
+Si vous souhaitez voir le projet dans son ensemble, je vous invite à cloner [ce repository](https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr) pour avoir la partie FrontEnd.
