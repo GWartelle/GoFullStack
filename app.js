@@ -10,6 +10,9 @@ mongoose.connect('mongodb+srv://gwartelle:ozszefJPZabNu2eG@cluster0.0ulrxvy.mong
       useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch(() => console.log('Connexion à MongoDB échouée !'));
+
+// Cette base de donnée sera supprimée suite à ce cours
+// Je vous invite à créer votre propre base de donnée.
     
 const app = express();
 
